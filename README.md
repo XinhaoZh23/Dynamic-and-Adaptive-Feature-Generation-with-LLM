@@ -1,8 +1,3 @@
-你可以使用以下Markdown代码作为你的`README.md`文件内容：
-
-```markdown
-# Dynamic and Adaptive Feature Generation with LLM
-
 This repository contains the code for the project "Dynamic and Adaptive Feature Generation with LLM".
 
 ## Environment Setup

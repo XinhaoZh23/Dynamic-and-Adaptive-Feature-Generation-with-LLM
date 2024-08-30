@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e8857205-e4e6-47c6-92fc-32891d2e8087" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2eWftUTN3g43rGSIQXc1AAAs0Xw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.amazon_temp.executor": "Debug",
+    "Python.dataset.executor": "Debug",
+    "Python.evaluation.executor": "ConcurrencyExecutor",
+    "Python.example.executor": "Debug",
+    "Python.example_baseline.executor": "Debug",
+    "Python.example_baseline_RL.executor": "Debug",
+    "Python.example_feature_generation.executor": "Debug",
+    "Python.temp.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+    "last_opened_file_path": "D:/数据库/Code/自己的Github库/LFG",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\数据库\Code\Tree of Thoughts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\数据库\Code\Tree of Thoughts\dataset\lymphography" />
+      <recent name="D:\数据库\Code\Tree of Thoughts" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8857205-e4e6-47c6-92fc-32891d2e8087" name="Changes" comment="" />
+      <created>1712025469630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712025469630</updated>
+      <workItem from="1712025472285" duration="17549000" />
+      <workItem from="1712300165792" duration="591000" />
+      <workItem from="1712603857932" duration="2494000" />
+      <workItem from="1713066441710" duration="1421000" />
+      <workItem from="1713130544979" duration="614000" />
+      <workItem from="1713808929380" duration="3279000" />
+      <workItem from="1713814370546" duration="21029000" />
+      <workItem from="1714023965551" duration="808000" />
+      <workItem from="1714502140696" duration="21856000" />
+      <workItem from="1714693879219" duration="798000" />
+      <workItem from="1714873569906" duration="9926000" />
+      <workItem from="1714931163436" duration="32785000" />
+      <workItem from="1715107575250" duration="1290000" />
+      <workItem from="1715208165430" duration="69000" />
+      <workItem from="1715704042423" duration="18741000" />
+      <workItem from="1715791186712" duration="50311000" />
+      <workItem from="1716329426506" duration="2597000" />
+      <workItem from="1716361953909" duration="1827000" />
+      <workItem from="1716390068480" duration="2561000" />
+      <workItem from="1716929270787" duration="3066000" />
+      <workItem from="1717710353043" duration="1515000" />
+      <workItem from="1724645744978" duration="6744000" />
+      <workItem from="1724693894691" duration="17076000" />
+      <workItem from="1724976794862" duration="3906000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tree_of_thoughts/treeofthoughts.py</url>
+          <line>852</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Tree_of_Thoughts$amazon_temp.coverage" NAME="amazon_temp Coverage Results" MODIFIED="1716056250681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tree_of_Thoughts$evaluation.coverage" NAME="evaluation Coverage Results" MODIFIED="1713813622268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tree_of_Thoughts$temp.coverage" NAME="temp Coverage Results" MODIFIED="1713888996713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree_of_thoughts" />
+    <SUITE FILE_PATH="coverage/Tree_of_Thoughts$example_baseline_RL.coverage" NAME="example_baseline_RL Coverage Results" MODIFIED="1716061909723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tree_of_Thoughts$example_feature_generation.coverage" NAME="example_feature_generation Coverage Results" MODIFIED="1724799737439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:\数据库\Code\Tree of Thoughts" />
+    <SUITE FILE_PATH="coverage/Tree_of_Thoughts$example.coverage" NAME="example Coverage Results" MODIFIED="1714970541891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tree_of_Thoughts$dataset.coverage" NAME="dataset Coverage Results" MODIFIED="1712082548789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:\数据库\Code\Tree of Thoughts" />
+    <SUITE FILE_PATH="coverage/Tree_of_Thoughts$example_baseline.coverage" NAME="example_baseline Coverage Results" MODIFIED="1716060714728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>

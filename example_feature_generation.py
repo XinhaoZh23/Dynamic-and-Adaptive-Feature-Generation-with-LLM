@@ -7,8 +7,8 @@ from downstreamtask import train_classifier, test_classifier
 import argparse
 
 # Setup command line argument parsing
-parser = argparse.ArgumentParser(description="Run the Monte Carlo Tree Search with a specified dataset")
-parser.add_argument("--dataset", type=str, required=False,default='abalone', choices=['ionosphere', 'amazon_binary', 'abalone', 'smokingdrinking', 'Diabetes'], help="Dataset to use in the application")
+parser = argparse.ArgumentParser(description="Run the LFG with a specified dataset")
+parser.add_argument("--dataset", type=str, required=False,default='abalone', choices=['ionosphere', 'amazon', 'abalone',  'Diabetes'], help="Dataset to use in the application")
 # DecisionTree
 parser.add_argument("--model", type=str, required=False,default='decision_tree', choices=['random_forest', 'decision_tree', 'knn', 'mlp'], help="Name of the model to use for downstream tasks")
 args = parser.parse_args()
