@@ -1,0 +1,1 @@
+squareroot, square, cosine, sine, tangent, exp, cube, log, reciprocal, sigmoid, delete

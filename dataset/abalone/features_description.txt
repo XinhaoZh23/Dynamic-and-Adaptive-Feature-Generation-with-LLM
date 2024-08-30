@@ -1,0 +1,1 @@
+Predicting the age of abalone from physical measurements. From the original data examples with missing values were removed (the majority having the predicted value missing), and the ranges of the continuous values have been scaled for use with an ANN (by dividing by 200).
